@@ -1,0 +1,7 @@
+langchain
+faiss-cpu
+transformers
+sentence-transformers
+streamlit
+numpy
+pandas
